@@ -6,7 +6,7 @@
 // @version      1.0.2
 // @description  On NovelAI's image generation screen, change the color of the generate button to a warning color when there are Anlas to be used.
 // @description:ja  NovelAIの画像生成画面において、消費するAnlasがある場合に生成ボタンの色を警告色に変更します。
-// @description:en  On NovelAI's image generation screen, change the color of the generate button to a warning color when there are points to be used.
+// @description:en  On NovelAI's image generation screen, change the color of the generate button to a warning color when there are Anlas to be used.
 // @author       Takenoko3333
 // @match        https://novelai.net/image
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=novelai.net
