@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 (function() {
-    const useAnlas = '.sc-d72450af-1 div span';
+    const useAnlas = '.sc-d72450af-1 div div span';
     const warningColor = 'orangered';
 
     setInterval(() => {
