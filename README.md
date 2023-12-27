@@ -9,6 +9,7 @@
 
 # 使用方法
 - 本スクリプトをTampermonkey等のUserScriptにインストールします。
+- [greasyfork](https://greasyfork.org/ja/scripts/483223-novelai-use-anlas-alert)からのインストールも可能です。
 <br>
 
 # ライセンス
@@ -24,6 +25,7 @@ Released under the [MIT](https://opensource.org/licenses/mit-license.php) licens
 
 # Usage
 - Install this script in Tampermonkey or other UserScript.
+- You can also install from [greasyfork](https://greasyfork.org/ja/scripts/483223-novelai-use-anlas-alert).
 <br>
 
 # License
