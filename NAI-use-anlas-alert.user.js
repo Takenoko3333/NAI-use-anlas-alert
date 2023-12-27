@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         NovelAI Use Anlas Alert
-// @namespace    http://tampermonkey.net/
 // @namespace    https://github.com/Takenoko3333/NAI-use-anlas-alert
 // @version      1.0
 // @description  On NovelAI's image generation screen, change the color of the generate button to a warning color when there are points to be used.
