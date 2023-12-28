@@ -6,7 +6,7 @@
 # 説明
 - NovelAIの画像生成画面において、消費するAnlasがある場合に生成ボタンの色を警告色に変更します。
   
-![NAI-use-anlas-alert-1](https://github.com/Takenoko3333/NAI-use-anlas-alert/assets/153407565/c6a4cc46-9655-47e1-92e3-f965d0ce7bb7)
+![NAI-use-anlas-alert-2](https://github.com/Takenoko3333/NAI-use-anlas-alert/assets/153407565/63b9add7-2f99-476f-bffa-4f5d933e62e0)
 <br>
 
 # 使用方法
@@ -24,7 +24,7 @@ Released under the [MIT](https://opensource.org/licenses/mit-license.php) licens
 # Description
 - On NovelAI's image generation screen, change the color of the generate button to a warning color when there are Anlas to be used.
 
-![NAI-use-anlas-alert-1](https://github.com/Takenoko3333/NAI-use-anlas-alert/assets/153407565/c6a4cc46-9655-47e1-92e3-f965d0ce7bb7)
+![NAI-use-anlas-alert-2](https://github.com/Takenoko3333/NAI-use-anlas-alert/assets/153407565/63b9add7-2f99-476f-bffa-4f5d933e62e0)
 <br>
 
 # Usage
