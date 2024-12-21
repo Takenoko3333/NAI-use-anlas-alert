@@ -14,6 +14,16 @@
 - [greasyfork](https://greasyfork.org/ja/scripts/483223-novelai-use-anlas-alert)からのインストールも可能です。
 <br>
 
+# 更新履歴
+## [1.1.0] - 2024-12-21
+### Fixed
+- NovelAIの仕様変更に伴い機能しなくなったため機能するように修正。
+
+## [1.0.0] - 2023-12-27
+### Added
+- v1.0.0 リリース
+<br>
+
 # ライセンス
 Copyright © 2023 Takenoko  
 Released under the [MIT](https://opensource.org/licenses/mit-license.php) license.
@@ -30,6 +40,16 @@ Released under the [MIT](https://opensource.org/licenses/mit-license.php) licens
 # Usage
 - Install this script in Tampermonkey or other UserScript.
 - You can also install from [greasyfork](https://greasyfork.org/en/scripts/483223-novelai-use-anlas-alert).
+<br>
+
+# Change log
+## [1.1.0] - 2024-12-21
+### Fixed
+- Fixed to work since it no longer works due to NovelAI specification change.
+
+## [1.0.0] - 2023-12-27
+### Added
+- v1.0.0 release
 <br>
 
 # License
