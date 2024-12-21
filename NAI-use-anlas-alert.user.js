@@ -3,7 +3,7 @@
 // @name:ja      NovelAI Anlas使用警告
 // @name:en      NovelAI Use Anlas Alert
 // @namespace    https://github.com/Takenoko3333/NAI-use-anlas-alert
-// @version      1.0.2
+// @version      1.1.0
 // @description  On NovelAI's image generation screen, change the color of the generate button to a warning color when there are Anlas to be used.
 // @description:ja  NovelAIの画像生成画面において、消費するAnlasがある場合に生成ボタンの色を警告色に変更します。
 // @description:en  On NovelAI's image generation screen, change the color of the generate button to a warning color when there are Anlas to be used.
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 (function() {
-    const useAnlas = '.sc-d72450af-1 div div span';
+    const useAnlas = '.sc-4f026a5f-2 div div span';
     const warningColor = 'orangered';
 
     setInterval(() => {
